@@ -1,0 +1,4 @@
+.idea/
+.venv/
+defi_test/.env
+*.sqlite3
